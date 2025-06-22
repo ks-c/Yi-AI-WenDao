@@ -5,6 +5,7 @@
   <h1>问道AI</h1>
   <p><strong>一款融合了《易经》古老智慧与现代AI大语言模型的桌面卜卦应用</strong></p>
   <p>
+    <a href="#"><img src="https://img.shields.io/badge/AI--Powered-Gemini%20%26%20Doubao-blueviolet" alt="AI-Powered"></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version"></a>
     <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
     <a href="#"><img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg" alt="Platform"></a>
@@ -45,3 +46,14 @@
 
 ## 📜 许可证
 本项目采用 MIT License 开源。
+
+
+## 🙏 致谢
+
+*   感谢《易经》这部古老的智慧经典，它为本项目提供了核心思想与灵魂。
+*   感谢各大AI平台（如 SiliconFlow, Suanli, OpenAI 等）提供的强大模型支持，让古老智慧得以与尖端科技对话。
+*   特别感谢 **Google Gemini** 与字节跳动 **豆包大模型**，在项目构思、代码编写、功能迭代及文档撰写过程中提供了极大的帮助与灵感。
+
+## 说明
+
+以上内容由Gemini-2.5-pro生成
